@@ -1,0 +1,13 @@
+# 通用忽略（发布版）
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+release/
+models/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
